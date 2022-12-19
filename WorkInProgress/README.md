@@ -38,7 +38,18 @@ Hacking prático na web: Ataques, Mitigações e Desafios
   - CONTEÚDOS
   - INFORMAÇÕES
 
-  [Apresentação inicial](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/3abf283c-5f06-4413-8b84-3200ce2823af)[Conteúdo programático](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/06c954db-5fab-41ad-a393-a7aa7d25baf2)[Segurança web é útil?](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/3b2b8c67-dc51-40d6-a614-ab8195484504)[OWASP](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/32e77251-a200-4ac1-aad6-b1ee11120b66)[Apresentação inicial da máquina virtual da OWASP](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/43e80aea-77af-4256-a623-8c38c87d74d1)[Injeção de código para adivinhar usuários e senhas de um banco de dados](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/6f8831c9-9a9a-4f56-a194-e4e9583792c0)[A estrutura em PHP por trás da injeção de código](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/7ce98a6e-26b0-49d6-9f38-1648669ce32a)[Como funciona a vulnerabilidade XSS](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/1f17144b-d634-4224-978a-5acdb28c245f)[Passo a passo para evitar XSS](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/220d6ffd-6560-4884-a391-38e202f04b54)[Testando SCAN de vulnerabilidades](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/070baa55-380f-4f65-8ace-630bb529e9e0)[Dúvidas e comentários finais](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/b5f08552-f475-4f94-8ef6-97cba6c7c491)[Materiais de apoio](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/56a2a0c1-ca79-40bc-95a6-22586623186c)
+ - [Apresentação inicial](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/3abf283c-5f06-4413-8b84-3200ce2823af)
+ - [Conteúdo programático](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/06c954db-5fab-41ad-a393-a7aa7d25baf2)
+ - [Segurança web é útil?](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/3b2b8c67-dc51-40d6-a614-ab8195484504)
+ - [OWASP](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/32e77251-a200-4ac1-aad6-b1ee11120b66)
+ - [Apresentação inicial da máquina virtual da OWASP](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/43e80aea-77af-4256-a623-8c38c87d74d1)
+ - [Injeção de código para adivinhar usuários e senhas de um banco de dados](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/6f8831c9-9a9a-4f56-a194-e4e9583792c0)
+ - [A estrutura em PHP por trás da injeção de código](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/7ce98a6e-26b0-49d6-9f38-1648669ce32a)
+ - [Como funciona a vulnerabilidade XSS](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/1f17144b-d634-4224-978a-5acdb28c245f)
+ - [Passo a passo para evitar XSS](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/220d6ffd-6560-4884-a391-38e202f04b54)
+ - [Testando SCAN de vulnerabilidades](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/070baa55-380f-4f65-8ace-630bb529e9e0)
+ - [Dúvidas e comentários finais](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/b5f08552-f475-4f94-8ef6-97cba6c7c491)
+ - [Materiais de apoio](https://web.dio.me/lab/hacking-pratico-na-web-ataques-mitigacoes-e-desafios/learning/56a2a0c1-ca79-40bc-95a6-22586623186c)
 - 3af
 
 # **Materiais de Apoio e Atividade proposta**
